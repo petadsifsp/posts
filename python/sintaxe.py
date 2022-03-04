@@ -11,7 +11,7 @@ print(2010) #valor
 if(pet == "ADS"):
     print("IFSP - Campus São Carlos")
 
-"""
+""" ----- REDES SOCIAIS -----
 Email: pet.ads.ifsp@gmail.com
 Facebook: https://www.facebook.com/PETADSIFSP
 GitHub: https://github.com/petadsifsp
