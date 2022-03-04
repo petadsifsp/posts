@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html>
+// Código
 
-<head>
-    <title>CSS - Sintaxe - CSS Embutido</title>
-</head>
-
-<body style="background-color: #35AEF9;">
-
-</body>
-
-</html>
-
-<!-- ----- REDES SOCIAIS -----
+/* ----- REDES SOCIAIS -----
 Email: pet.ads.ifsp@gmail.com
 Facebook: https://www.facebook.com/PETADSIFSP
 GitHub: https://github.com/petadsifsp
@@ -27,4 +16,4 @@ Instagram - Publicação:
 Instagram - Vídeo: 
 TikTok: 
 Twitter - Publicação: 
-Twitter - Vídeo: -->
+Twitter - Vídeo: */

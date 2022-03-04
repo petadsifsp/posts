@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html>
+package main
 
-<head>
-    <title>CSS - Sintaxe - CSS Embutido</title>
-</head>
+func main() {
+	// Comentário único
 
-<body style="background-color: #35AEF9;">
+	/*
+	   Comentário de
+	   múltiplas linhas
+	*/
+}
 
-</body>
-
-</html>
-
-<!-- ----- REDES SOCIAIS -----
+/* ----- REDES SOCIAIS -----
 Email: pet.ads.ifsp@gmail.com
 Facebook: https://www.facebook.com/PETADSIFSP
 GitHub: https://github.com/petadsifsp
@@ -27,4 +25,4 @@ Instagram - Publicação:
 Instagram - Vídeo: 
 TikTok: 
 Twitter - Publicação: 
-Twitter - Vídeo: -->
+Twitter - Vídeo: */

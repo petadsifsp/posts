@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html>
+#Comentário
 
-<head>
-    <title>CSS - Sintaxe - CSS Embutido</title>
-</head>
+#Variável
+pet = "ADS" #nome = valor
 
-<body style="background-color: #35AEF9;">
+#Output
+print(pet) #variável
+print(2010) #valor
 
-</body>
+#Identação
+if(pet == "ADS"):
+    print("IFSP - Campus São Carlos")
 
-</html>
-
-<!-- ----- REDES SOCIAIS -----
+""" ----- REDES SOCIAIS -----
 Email: pet.ads.ifsp@gmail.com
 Facebook: https://www.facebook.com/PETADSIFSP
 GitHub: https://github.com/petadsifsp
@@ -27,4 +27,4 @@ Instagram - Publicação:
 Instagram - Vídeo: 
 TikTok: 
 Twitter - Publicação: 
-Twitter - Vídeo: -->
+Twitter - Vídeo: """
