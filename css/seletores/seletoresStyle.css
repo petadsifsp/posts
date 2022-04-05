@@ -1,9 +1,32 @@
-h1,
-h3,
-p.segundo {
-    color: grey;
+    /* #id */
+#titulo {
+    color: blue;
 }
 
+    /* .classe */
+/*.segundo {
+    color: blue;
+}*/
+
+    /* tag.classe */
+/*p.segundo {
+    color: blue;
+}*/
+
+    /* Todos */
+/** {
+    color: blue;
+}*/
+
+    /* tag */
+/*p {
+    color: blue;
+}*/
+
+    /* seletor, seletor, ... */
+/*h1, h3, p.segundo {
+    color: blue;
+}*/
 
 /* ----- REDES SOCIAIS -----
 Email: pet.ads.ifsp@gmail.com
