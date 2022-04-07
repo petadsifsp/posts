@@ -1,0 +1,4 @@
+// Comentário
+
+/* Comentário
+explicativo */
